@@ -1,7 +1,7 @@
 /* Mobile compatibility: use overflow hidden rather than overflow clip. */
 html{color-scheme:only light;overflow-x:hidden!important;max-width:100%;-webkit-text-size-adjust:100%;text-size-adjust:100%}
 body{width:100%;max-width:100%;overflow-x:hidden!important;margin:0}
-.app-shell{width:100%;max-width:100%;min-width:0;overflow:hidden!important}
+.app-shell{width:100%;max-width:100%;min-width:0;overflow:visible!important}
 @media(max-width:820px){
 .app-shell{background-attachment:scroll}
 .app-shell>main,.section,.landing-hero,.landing-copy,.landing-visual{min-width:0;max-width:100%;box-sizing:border-box}
