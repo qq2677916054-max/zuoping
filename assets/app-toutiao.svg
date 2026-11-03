@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="今日头条">
+  <defs>
+    <linearGradient id="bg" x1="7" y1="6" x2="57" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff5548"/>
+      <stop offset="1" stop-color="#ef3028"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <path d="M16 18h32M16 46h32" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+  <text x="32" y="38" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="19" font-weight="900" letter-spacing="1" fill="#fff">头条</text>
+</svg>

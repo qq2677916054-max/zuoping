@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f1e8"/>
+      <stop offset="1" stop-color="#d8d2c4"/>
+    </linearGradient>
+    <linearGradient id="speaker" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#30363a"/>
+      <stop offset="1" stop-color="#0d0f10"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="38" y="38" width="824" height="1124" rx="28" fill="#f9f7f0" stroke="#b8b3a8"/>
+  <circle cx="78" cy="78" r="7" fill="#111"/>
+  <circle cx="102" cy="78" r="7" fill="#bbb5aa"/>
+  <circle cx="126" cy="78" r="7" fill="#bbb5aa"/>
+  <path d="M56 116h788" stroke="#d1ccc1"/>
+  <text x="78" y="179" fill="#111" font-family="Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="8">SOVOX</text>
+  <text x="78" y="246" fill="#6f6c66" font-family="Arial, sans-serif" font-size="19" letter-spacing="4">OFFICIAL WEBSITE COPY</text>
+  <text x="78" y="355" fill="#111" font-family="Microsoft YaHei, sans-serif" font-size="64" font-weight="700">让专业参数，</text>
+  <text x="78" y="430" fill="#111" font-family="Microsoft YaHei, sans-serif" font-size="64" font-weight="700">成为听得懂的价值。</text>
+  <rect x="78" y="484" width="370" height="4" fill="#b6ff26"/>
+  <text x="78" y="545" fill="#55524d" font-family="Microsoft YaHei, sans-serif" font-size="24">官网全站文案策划 · 产品语言梳理</text>
+  <text x="78" y="586" fill="#817d76" font-family="Microsoft YaHei, sans-serif" font-size="20">从技术、功能到场景，建立统一品牌表达</text>
+  <g transform="translate(522 532)">
+    <rect width="244" height="420" rx="16" fill="url(#speaker)"/>
+    <circle cx="122" cy="112" r="62" fill="#080909" stroke="#596064" stroke-width="7"/>
+    <circle cx="122" cy="112" r="17" fill="#b3bbc0"/>
+    <circle cx="122" cy="260" r="84" fill="#060707" stroke="#596064" stroke-width="8"/>
+    <circle cx="122" cy="260" r="24" fill="#b3bbc0"/>
+    <rect x="20" y="379" width="204" height="4" fill="#b6ff26"/>
+  </g>
+  <g fill="#151515" font-family="Microsoft YaHei, sans-serif">
+    <text x="78" y="734" font-size="17" font-weight="700">01 / 产品功能</text>
+    <text x="78" y="786" font-size="17" font-weight="700">02 / 技术参数</text>
+    <text x="78" y="838" font-size="17" font-weight="700">03 / 使用场景</text>
+    <text x="78" y="890" font-size="17" font-weight="700">04 / 品牌口径</text>
+  </g>
+  <path d="M78 968h744" stroke="#c5c0b5"/>
+  <text x="78" y="1025" fill="#77736c" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">CONTENT STRATEGY / COPYWRITING / QA</text>
+  <text x="78" y="1098" fill="#111" font-family="Microsoft YaHei, sans-serif" font-size="30" font-weight="700">官网文案策划案例</text>
+</svg>
